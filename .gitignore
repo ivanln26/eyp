@@ -1,0 +1,7 @@
+*.pdf
+*.out
+*.log
+*.aux
+*.toc
+venv
+.ipynb_checkpoints
